@@ -15,9 +15,9 @@ Soy apoasionado por la tecnología, me facina optimizar, automatizar y eficienti
 <Br>
 
 <ul>
-<li><a href="https://github.com/EduardoCastillo20/ProyectoDA1">Proyecto 1</a></li>
-<li><a href="https://github.com/EduardoCastillo20/ProyectoDA2">Proyecto 2</a></li>
-<li><a href="https://github.com/EduardoCastillo20/ProyectoDA3">Proyecto 3</a></li>
+<li><h2><a href="https://github.com/EduardoCastillo20/ProyectoDA1">Proyecto 1</a></h2></li>
+<li><h2><a href="https://github.com/EduardoCastillo20/ProyectoDA2">Proyecto 2</a></h2></li>
+<li><h2><a href="https://github.com/EduardoCastillo20/ProyectoDA3">Proyecto 3</a></h2></li>
 </ul>
 
 <hr>
