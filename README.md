@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://images.netcomlearning.com/cms/banners/ways-to-earn-power-bi-skills-for-data-analyst.png" height="230"/>
 </p>
 
@@ -84,7 +84,7 @@ Si tienes un proyecto relacionado con **Data Analytics, Automatización o Desarr
 
 ---
 
-## 📬 Contacto
+## 📬 Contactame
 
 <p align="center">
   <a href="mailto:eduardo@espindola.mx">
