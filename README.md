@@ -17,7 +17,7 @@
 ## 🚀 Sobre mí
 
 Soy un apasionado de la tecnología con un fuerte interés en **optimizar, automatizar y eficientizar procesos** mediante soluciones innovadoras.  
-Me encanta trabajar con **tecnologías open source** y actualmente me he formado como **Analista de Datos**, combinando mis habilidades técnicas y experiencia para aportar valor en el desarrollo de las organizaciones.
+Me encanta trabajar con **tecnologías open source** y actualmente me he formado como **Analista de Datos**, combinando mis habilidades técnicas y experiencia aporto valor y crecimiento en las organizaciones.
 
 > 💡 *"Transformar datos en conocimiento es la clave para tomar mejores decisiones."*
 
