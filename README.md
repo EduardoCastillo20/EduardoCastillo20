@@ -24,20 +24,8 @@ Me encanta trabajar con **tecnologías open source** y actualmente me he formado
 ---
 
 ## 📊 Proyectos de Data Analyst
-[1-Python-basico](https://github.com/EduardoCastillo20/1-Python-basico)
-2-Analisis-App-Productos-Alimenticios
-3-Analisis-Preferencias-Musicales
-4-Instacart
-5-Analisis-De-Tarifas
-6-Analisis-Datos-VideoJuegos
-7-Analisis-Taxis
-8-Metricas-Usuarios
-9-Analisis-Hipotesis
-10-Experimentos-de-usuario
-11-Retencion-y-segmentacin-GYM
-- [📌 PROYECTO 1 DA TAXIS](https://github.com/EduardoCastillo20/ProyectoDA1)  
-- [📌 PROYECTO 2 DA PRODUCTOS ALIMENTICIOS](https://github.com/EduardoCastillo20/ProyectoDA2)  
-- [📌 PROYECTO 3 DA OPERADORES TELEFONICOS](https://github.com/EduardoCastillo20/ProyectoDA3)  
+
+- [📌 MI PORTAFOLIO](https://github.com/EduardoCastillo20?tab=repositories])
 
 ---
 
