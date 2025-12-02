@@ -25,7 +25,7 @@ Me encanta trabajar con **tecnologías open source** y actualmente me he formado
 
 ## 📊 Proyectos de Data Analyst
 
-- [📌 MI PORTAFOLIO](https://github.com/EduardoCastillo20?tab=repositories])
+- [📌 MI PORTAFOLIO](https://github.com/EduardoCastillo20?tab=repositories)
 
 ---
 
